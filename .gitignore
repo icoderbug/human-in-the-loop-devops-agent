@@ -1,0 +1,7 @@
+.env
+*.env
+__pycache__/
+*.db
+uploads/
+*.pyc
+db_test.py
